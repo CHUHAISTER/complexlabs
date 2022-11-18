@@ -1,0 +1,84 @@
+2022-11-18 03:16:13,194 INFO m.j.c.Database [main] Success connection to database.
+2022-11-18 03:16:13,274 INFO m.j.c.s.SortFilterflowersDB [main] Get flowers current type.
+2022-11-18 03:16:13,274 INFO m.j.c.s.SortFilterflowersDB [main] Get flowers current type.
+2022-11-18 03:16:13,274 INFO m.j.c.s.SortFilterflowersDB [main] Get flowers current type.
+2022-11-18 03:16:20,132 INFO c.Bouquet [main] Add flowers to bouquet.
+2022-11-18 03:16:31,627 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,627 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,627 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,627 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,627 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:31,628 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 03:16:36,569 INFO c.Bouquet [main] Add accessories to bouquet.
+2022-11-18 03:16:47,385 INFO c.Bouquet [main] Add accessories to bouquet.
+2022-11-18 03:16:54,690 INFO c.Bouquet [main] All info about bouquet`s flowers.
+2022-11-18 03:16:54,690 INFO c.Bouquet [main] All info about bouquet`s accessories.
+2022-11-18 03:16:54,691 INFO c.Bouquet [main] Price bouquet = 152.0
+2022-11-18 03:16:54,692 INFO c.Bouquet [main] Average length of flowers in bouquet = 50.0
+2022-11-18 03:16:54,692 INFO c.Bouquet [main] All info about bouquet.
+2022-11-18 03:16:58,903 INFO c.Bouquet [main] All info about bouquet`s flowers.
+2022-11-18 03:16:58,904 INFO c.Bouquet [main] All info about bouquet`s accessories.
+2022-11-18 03:16:58,904 INFO c.Bouquet [main] Price bouquet = 152.0
+2022-11-18 03:16:58,904 INFO c.Bouquet [main] Average length of flowers in bouquet = 50.0
+2022-11-18 03:16:58,904 INFO c.Bouquet [main] All info about bouquet.
+2022-11-18 03:16:58,905 INFO m.j.c.i.AccessoryDB [main] Delete accessory.
+2022-11-18 03:16:58,963 INFO m.j.c.i.AccessoryDB [main] Delete accessory.
+2022-11-18 03:16:58,997 INFO m.j.c.i.AccessoryDB [main] Delete accessory from bouquet.
+2022-11-18 03:16:58,998 INFO m.j.c.i.flowerDB [main] Delete flower.
+2022-11-18 03:16:59,032 INFO m.j.c.i.flowerDB [main] Delete flower from bouquet.
+2022-11-18 03:16:59,033 INFO c.Bouquet [main] BUY bouquet!!!
+2022-11-18 03:52:21,835 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc
+2022-11-18 10:35:03,195 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc
+2022-11-18 10:45:30,915 INFO m.j.c.Database [main] Success connection to database.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,993 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:45:30,994 INFO m.j.c.s.SortFilterAccessoriesDB [main] Get all accessory.
+2022-11-18 10:47:46,004 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 10:51:55,752 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:23:37,809 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:25:16,339 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:34:16,452 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:35:22,214 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:50:06,099 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:52:45,107 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 11:52:53,372 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:07:55,792 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:09:32,646 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:31:58,081 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:32:38,897 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:33:10,187 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:33:24,565 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:54:04,079 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:55:29,676 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:55:44,887 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:56:23,661 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:57:08,978 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 12:58:09,349 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:01:05,346 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:02:29,248 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:05:36,089 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:08:46,741 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:10:37,312 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:12:12,061 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:22:33,389 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:23:09,358 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+2022-11-18 13:25:15,696 ERROR m.j.c.Database [main] Fail connection.No suitable driver found for jdbc'':sqlserver://flowersshops.database.windows.net:1433;database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
