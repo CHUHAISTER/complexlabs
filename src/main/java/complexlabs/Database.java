@@ -9,7 +9,7 @@ import static main.java.complexlabs.inputoutput.output.printError;
 
 public class Database {
     public static final Logger LOGI = (Logger) LogManager.getLogger(Database.class);
-    public static final String url = "jdbc'':sqlserver://flowersshops.database.windows.net:1433;" +
+    public static final String url = "jdbc:sqlserver://flowersshops.database.windows.net:1433;" +
             "database=shopsforflowers_database;user=dead_hero15@flowersshops;password=sword_1n_chest!;encrypt=true;" +
             "trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
     public static java.sql.Connection connection = null; // connection to database
